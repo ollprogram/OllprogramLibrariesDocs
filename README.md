@@ -1,2 +1,2 @@
-# ImageModifier.JavaDocs
-JavaDocs from ImageModifier library for Java.
+# OllprogramLibrariesDocs
+JavaDocs from all libraries created by ollprogram
