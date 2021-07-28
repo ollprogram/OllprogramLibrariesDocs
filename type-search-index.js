@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"fr.olleroy.ImageModifier.components","l":"Bitmap"},{"p":"fr.olleroy.ImageModifier","l":"BMPFile"},{"p":"fr.olleroy.ImageModifier.components","l":"Pixel"}];updateSearchResults();
